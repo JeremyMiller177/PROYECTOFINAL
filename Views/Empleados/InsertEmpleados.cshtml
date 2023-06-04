@@ -1,0 +1,38 @@
+
+
+@model EmpleadosModel
+
+@{
+    ViewBag.Title="InsertEmpleados";
+}
+
+<form method="post">
+<div class="container register">
+    <div class="row">
+        <div class="col-md-3 register-left"></div>
+        <div class="col-md-9 register-right">
+            <div class="tab-content">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                        <input asp-for="Nombre" class="form-control" placeholder="Nombre del Empleado" type="text"/>
+                    </div>
+                    <br/>
+                    <div class="form-group">
+                        <span asp-validation-for="Puesto" class="text-danger"></span>
+                        <input asp-for="Puesto" class="form-control" placeholder="Puesto" type="text"/>
+                    </div>
+                    <br/>
+                    
+                    
+                </div>
+                
+                <br/>
+                <div class="col-md-6">
+                    <input type="submit" value="Guardar" class="btn btn-primary" asp-action="InsertEmpleados" asp-controller="Empleados"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</form>

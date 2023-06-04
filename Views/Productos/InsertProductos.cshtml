@@ -1,0 +1,54 @@
+@model ProductoModel
+
+@{
+    ViewBag.Title="InsertProducto";
+}
+
+<form method="post">
+<div class="container register">
+    <div class="row">
+        <div class="col-md-3 register-left"></div>
+        <div class="col-md-9 register-right">
+            <div class="tab-content">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                        <input asp-for="Nombre" class="form-control" placeholder="Nombre del Producto" type="text"/>
+                    </div>
+                    <br/>
+                    <div class="form-group">
+                        <span asp-validation-for="CantidadExistente" class="text-danger"></span>
+                        <input asp-for="CantidadExistente" class="form-control" placeholder="Cantidad Existente" type="text"/>
+                    </div>
+                    <br/>
+                    <div class="form-group">
+                        <span asp-validation-for="CantidadEntrante" class="text-danger"></span>
+                        <input asp-for="CantidadEntrante" class="form-control" placeholder="Cantidad Entrante" type="text"/>
+                    </div>
+                    <br/>
+                    <div class="form-group">
+                        <span asp-validation-for="Precio" class="text-danger"></span>
+                        <input asp-for="Precio" class="form-control" placeholder="Precio" type="text"/>
+                    </div>
+                    <br/>
+                    <div class="form-group">
+                        <span asp-validation-for="Detalle" class="text-danger"></span>
+                        <input asp-for="Detalle" class="form-control" placeholder="Detalle" type="text"/>
+                    </div>
+                     <br/>
+                    <div class="form-group">
+                        <span asp-validation-for="Codigo" class="text-danger"></span>
+                        <input asp-for="Codigo" class="form-control" placeholder="Codigo" type="text"/>
+                    </div>
+                    
+                </div>
+                
+                <br/>
+                <div class="col-md-6">
+                    <input type="submit" value="Guardar" class="btn btn-primary" asp-action="InsertProductos" asp-controller="Productos"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</form>

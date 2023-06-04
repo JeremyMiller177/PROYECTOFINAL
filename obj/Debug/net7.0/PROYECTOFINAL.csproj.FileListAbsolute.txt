@@ -1,0 +1,76 @@
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\appsettings.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.staticwebassets.runtime.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.exe
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.deps.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.runtimeconfig.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.pdb
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.csproj.AssemblyReference.cache
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.AssemblyInfoInputs.cache
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.AssemblyInfo.cs
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.csproj.CoreCompileInputs.cache
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.RazorAssemblyInfo.cache
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.RazorAssemblyInfo.cs
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.PROYECTOFINAL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.build.PROYECTOFINAL.props
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTOFINAL.props
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PROYECTOFINAL.props
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\scopedcss\bundle\PROYECTOFINAL.styles.css
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\scopedcss\projectbundle\PROYECTOFINAL.bundle.scp.css
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\refint\PROYECTOFINAL.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.pdb
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.genruntimeconfig.cache
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\ref\PROYECTOFINAL.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JESSICA GONZALEZ\Desktop\projects\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.csproj.CopyComplete
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\appsettings.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.staticwebassets.runtime.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.exe
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.deps.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.runtimeconfig.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\PROYECTOFINAL.pdb
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.csproj.AssemblyReference.cache
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.AssemblyInfoInputs.cache
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.AssemblyInfo.cs
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.csproj.CoreCompileInputs.cache
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.RazorAssemblyInfo.cache
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.RazorAssemblyInfo.cs
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.PROYECTOFINAL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.build.PROYECTOFINAL.props
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTOFINAL.props
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PROYECTOFINAL.props
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\scopedcss\bundle\PROYECTOFINAL.styles.css
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\scopedcss\projectbundle\PROYECTOFINAL.bundle.scp.css
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.csproj.CopyComplete
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\refint\PROYECTOFINAL.dll
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.pdb
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\PROYECTOFINAL.genruntimeconfig.cache
+C:\Users\LUCHO\Downloads\PROYECTOFINAL\PROYECTOFINAL\obj\Debug\net7.0\ref\PROYECTOFINAL.dll
